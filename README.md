@@ -1,5 +1,5 @@
 <h3>Hi there 👋</h3>
-I'm Sohan, Web Application Developer and Content Creator on <a href="#">Youtube</a>. I spend most of the time coding client projects or creating tutorials.
+I'm Sohan, Web Application Developer i love to learn and try new things.
 
 <h3>☕ Connect with me!</h3>
 <p>
