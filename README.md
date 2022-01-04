@@ -76,7 +76,7 @@ I'm Sohan, Web Application Developer and Content Creator on <a href="#">Youtube<
   </a>
 </p>
 
-<h3>🔭 My Projects</h3>
+<h3>🔭 My Projects in (Code Canyon)</h3>
 <table>
   <thead align="center">
     <tr>
@@ -86,33 +86,30 @@ I'm Sohan, Web Application Developer and Content Creator on <a href="#">Youtube<
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://ecommerce-bd.xyz" rel="nofollow">Ecommerce Web App</a></td>
-      <td>Online Shop and Management System</td>
+      <td><a href="https://codecanyon.net/item/fundorex-crowdfunding-platform/33286096" rel="nofollow">Fundorex</a></td>
+      <td>Fundorex - Crowdfunding Platform</td>
     </tr>
     <tr>
-      <td><a href="https://web-journey.xyz/inventory" rel="nofollow">Inventory Web App</a></td>
-      <td>Inventory Management System</td>
+      <td><a href="https://codecanyon.net/item/pexdoc-knowledgebase-customer-support-helpdesk-ticketing-cms/33858909" rel="nofollow">Pexdoc</a></td>
+      <td>Pexdoc - Knowledgebase Customer Support & Helpdesk Ticketing CMS</td>
     </tr>
     <tr>
-      <td><a href="https://cryptopostal.com/en" rel="nofollow">CryptoPostal</a></td>
-      <td>Crypto Currency Details</td>
+      <td><a href="https://codecanyon.net/item/attorg-lawyer-attorney-website-cms-with-appointment-booking-system-php-scripts/32547529" rel="nofollow">Attorg</a></td>
+      <td>Attorg - lawyer & attorney website cms with Appointment Booking System PHP Scripts</td>
     </tr>
     <tr>
-      <td><a href="http://www.habsecurities.com" rel="nofollow">HABSL</a></td>
-      <td>One of the Best Brokerage Company in Bangladesh</td>
+      <td><a href="https://codecanyon.net/item/intoday-news-magazine-multilingual-laravel-cms/35217402" rel="nofollow">Intoday</a></td>
+      <td>Intoday - News, Magazine Multilingual Laravel CMS</td>
     </tr>
      <tr>
-      <td><a href="http://ihelpbd.com" rel="nofollow">iHelpBD</a></td>
-      <td>Call Center Software Company</td>
+      <td><a href="https://codecanyon.net/item/harnold-political-cms/33788263" rel="nofollow">Harnold</a></td>
+      <td>Harnold - Political CMS</td>
     </tr>  
     <tr>
-      <td>CRM and Dialer Software</td>
-      <td>Clients: IFIC Bank, BITI, Metlife Alico, Labaid, TCG, Pathao, Obhai, Biid, Shob Hobe, ShopUP etc</td>
+       <td><a href="https://codecanyon.net/item/ozagi-personal-blog-multilingual-laravel-cms/34909138" rel="nofollow">Ozagi</a></td>
+      <td>Ozagi - Personal Blog Multilingual Laravel CMS</td>
     </tr> 
-    <tr>
-      <td>Sales & Distribution Management</td>
-      <td>Keep tracking of sales information, inventory information, accounting information, purchase information, vendor payment, employ salary, customer information, barcode and credit card scanner, tracking the invoice & ledger</td>
-    </tr>    
+  
   </tbody>
 </table>
 
