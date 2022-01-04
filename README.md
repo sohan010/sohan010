@@ -13,7 +13,7 @@ I'm Sohan, Web Application Developer and Content Creator on <a href="#">Youtube<
     <img src ="https://img.shields.io/static/v1?message=Gmail&logo=gmail&labelColor=5c5c5c&color=FF0000&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
    <a href="javascript:void(0)">
-    <img src ="https://www.linkedin.com/feed/" height="25" style="max-width: 100%;">
+<img src ="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&labelColor=5c5c5c&color=D4AC0D&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
 </p>
 <p>
