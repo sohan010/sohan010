@@ -6,14 +6,14 @@ I'm Sohan, Web Application Developer and Content Creator on <a href="#">Youtube<
     <a href="https://www.facebook.com/sopnil.ahamed/" target="_blank">
     <img src ="https://img.shields.io/static/v1?message=Facebook&logo=facebook&labelColor=5c5c5c&color=b9770e&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
- <a href="https://www.youtube.com/c/WebJourneybd" target="_blank">
+ <a href="https://www.youtube.com/channel/UCoKb1VMNQSuMk-7fuzzptPA" target="_blank">
     <img src ="https://img.shields.io/static/v1?message=Youtube&logo=youtube&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
-   <a href="mailto:nazmuldiu8@gmail.com" target="_blank">
+   <a href="mailto:sopnilsohan03@gmail.com" target="_blank">
     <img src ="https://img.shields.io/static/v1?message=Gmail&logo=gmail&labelColor=5c5c5c&color=FF0000&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
    <a href="javascript:void(0)">
-    <img src ="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&labelColor=5c5c5c&color=D4AC0D&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+    <img src ="https://www.linkedin.com/feed/" height="25" style="max-width: 100%;">
   </a>
 </p>
 <p>
