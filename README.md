@@ -21,7 +21,7 @@ I'm Sohan, Web Application Developer i love to learn and try new things.
     <span>💻 Most used line of code console.log("hello world").</span> <br>
     <span>🤔 I’m looking for people who can help me with Outstanding Video ideas and executions.</span> <br>
     <span>📧 How to reach me: sopnilsohan03@gmail.com.</span> <br>
-    <span>🔭  I’m currently working on PHP Laravel.</span> <br>
+    <span>🔭  I’m currently working on Software farm (Xgenious) with PHP Laravel Applications. </span> <br>
     <span>🔭  Envato Market Place Software Product.</span> <br>
     
 </p>
