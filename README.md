@@ -12,10 +12,9 @@ I'm Sohan, Web Application Developer i love to learn and try new things.
   </a>
     
  <a href="mailto:sopnilsohan03@gmail.com">
-    <img src="https://www.linkedin.com/in/al-ahsan-00a612197/" height="25" data-canonical-src="https://img.shields.io/static/v1?message=Gmail&amp;logo=gmail&amp;labelColor=5c5c5c&amp;color=FF0000&amp;logoColor=white&amp;label=%20" style="max-width: 100%;">
+    <img src="https://www.linkedin.com/in/al-ahsan-00a612197/" height="25" data-canonical-src="https://img.shields.io/static/v1?        message=Gmail&amp;logo=gmail&amp;labelColor=5c5c5c&amp;color=FF0000&amp;logoColor=white&amp;label=%20" style="max-width: 100%;">
   </a>
-    
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/59e8cfdca16f027d492ee17e4a90c25e6d511d1d4b41c8afc3bfb479e2030912/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d4c696e6b6564696e266c6f676f3d6c696e6b6564696e266c6162656c436f6c6f723d35633563356326636f6c6f723d443441433044266c6f676f436f6c6f723d7768697465266c6162656c3d253230"><img src="https://camo.githubusercontent.com/59e8cfdca16f027d492ee17e4a90c25e6d511d1d4b41c8afc3bfb479e2030912/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d4c696e6b6564696e266c6f676f3d6c696e6b6564696e266c6162656c436f6c6f723d35633563356326636f6c6f723d443441433044266c6f676f436f6c6f723d7768697465266c6162656c3d253230" height="25" data-canonical-src="https://img.shields.io/static/v1?message=Linkedin&amp;logo=linkedin&amp;labelColor=5c5c5c&amp;color=D4AC0D&amp;logoColor=white&amp;label=%20" style="max-width: 100%;"></a>
+
   
 
 
