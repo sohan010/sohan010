@@ -60,7 +60,7 @@ I'm Sohan, Web Application Developer i love to learn and try new things.
   </a>
 </p>
 
-<h3>🐛 Tutorial and Course</h3>
+<!-- <h3>🐛 Tutorial and Course</h3>
 <p> 
   <a href="https://www.youtube.com/c/WebJourneybd" target="_blank">
     <img src ="https://img.shields.io/static/v1?message=PHP&logo=php&labelColor=5c5c5c&color=008000&logoColor=white&label=%20" height="25" style="max-width: 100%;">
@@ -74,7 +74,7 @@ I'm Sohan, Web Application Developer i love to learn and try new things.
      <a href="https://web-journey.xyz" target="_blank">
     <img src ="https://img.shields.io/static/v1?message=My Course&logo=laravel&labelColor=5c5c5c&color=000000&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
-</p>
+</p> -->
 
 <h3>🔭 My Projects in (Code Canyon)</h3>
 <table>
