@@ -7,14 +7,13 @@ I'm Sohan, Web Application Developer i love to learn and try new things.
     <img src ="https://img.shields.io/static/v1?message=Facebook&logo=facebook&labelColor=5c5c5c&color=b9770e&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
     
-      <a href="#" target="_blank">
-          <img src ="https://img.shields.io/static/v1?message=PHP&logo=php&labelColor=5c5c5c&color=008000&logoColor=white&label=%20" height="25" style="max-width:          100%;">
+  <a href="#">
+    <img src ="https://img.shields.io/static/v1?message=PHP&logo=php&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
     
-          <a href="#" target="_blank">
-          <img src ="https://img.shields.io/static/v1?message=PHP&logo=php&labelColor=5c5c5c&color=008000&logoColor=white&label=%20" height="25" style="max-width:          100%;">
+  <a href="#">
+    <img src ="https://img.shields.io/static/v1?message=PHP&logo=php&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
-
 
 
 </p>
