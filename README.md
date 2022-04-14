@@ -6,9 +6,7 @@ I'm Sohan, Web Application Developer i love to learn and try new things.
     <a href="https://www.facebook.com/sopnil.ahamed/" target="_blank">
     <img src ="https://img.shields.io/static/v1?message=Facebook&logo=facebook&labelColor=5c5c5c&color=b9770e&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
- <a href="https://www.youtube.com/channel/UCoKb1VMNQSuMk-7fuzzptPA" target="_blank">
-    <img src ="#">
-  </a>
+
    <a href="mailto:sopnilsohan03@gmail.com" target="_blank">
     <img src ="https://img.shields.io/static/v1?message=Gmail&logo=gmail&labelColor=5c5c5c&color=FF0000&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
