@@ -1,5 +1,5 @@
 <h3>Hi there 👋</h3>
-I'm Sohan, Web Application Developer i love to learn and try new things.
+I'm Sohan, Web Application Developer currently @xgenious. I love to learn and solve problems, I find bugs as like detective job it makes feel like i am a cop in code mission.
 
 <h3>☕ Connect with me!</h3>
 <p dir="auto">
