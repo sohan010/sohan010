@@ -124,7 +124,7 @@ I'm Sohan, Web Application Developer currently @xgenious. I love to learn and so
       <td>Harnold - Political CMS</td>
     </tr> 
       <tr>
-      <td><a href="https://codecanyon.net/item/harnold-political-cms/33788263" rel="nofollow">Pixefy</a></td>
+      <td><a href="https://pixefy.co/" rel="nofollow">Pixefy</a></td>
       <td>Pixefy -Business Banner Management CMS</td>
     </tr> 
     <tr>
