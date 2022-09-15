@@ -95,12 +95,6 @@ I'm Sohan, Web Application Developer currently @xgenious. I love to learn and so
       <td><a href="https://codecanyon.net/item/fundorex-crowdfunding-platform/33286096" rel="nofollow">Fundorex</a></td>
       <td>Fundorex - Crowdfunding Platform</td>
     </tr>
-    
-     <tr>
-      <td><a href="https://codecanyon.net/item/fundorex-crowdfunding-platform/33286096" rel="nofollow">Mobile App (API)</a></td>
-      <td>API Development - Crowdfunding Platform)</td>
-    </tr>
-    
      <tr>
       <td><a href="https://codecanyon.net/item/tenancyland-multitenancy-multipurpose-website-cms/38663702" rel="nofollow">TenancyLand</a></td>
       <td>TenancyLand - Multi-Tenancy Multipurpose Website CMS</td>
@@ -126,12 +120,6 @@ I'm Sohan, Web Application Developer currently @xgenious. I love to learn and so
       <td><a href="https://codecanyon.net/item/harnold-political-cms/33788263" rel="nofollow">Harnold</a></td>
       <td>Harnold - Political CMS</td>
     </tr> 
-    
-     <tr>
-      <td><a href="https://pixefy.co/" rel="nofollow">Pixefy</a></td>
-      <td>Harnold - Business Banner Management CMS</td>
-    </tr>  
-    
     <tr>
        <td><a href="https://codecanyon.net/item/ozagi-personal-blog-multilingual-laravel-cms/34909138" rel="nofollow">Ozagi</a></td>
       <td>Ozagi - Personal Blog Multilingual Laravel CMS</td>
