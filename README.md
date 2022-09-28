@@ -123,10 +123,7 @@ I'm Sohan, Web Application Developer currently @xgenious. I love to learn and so
       <td><a href="https://codecanyon.net/item/harnold-political-cms/33788263" rel="nofollow">Harnold</a></td>
       <td>Harnold - Political CMS</td>
     </tr> 
-      <tr>
-      <td><a href="https://pixefy.co/" rel="nofollow">Pixefy</a></td>
-      <td>Pixefy -Business Banner Management CMS</td>
-    </tr> 
+
     <tr>
        <td><a href="https://codecanyon.net/item/ozagi-personal-blog-multilingual-laravel-cms/34909138" rel="nofollow">Ozagi</a></td>
       <td>Ozagi - Personal Blog Multilingual Laravel CMS</td>
